@@ -1,0 +1,5 @@
+
+class MapUtils {
+  MapUtils._();
+
+}
